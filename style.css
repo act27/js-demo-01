@@ -1,0 +1,18 @@
+div{
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+}
+.demo{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 10px solid green;
+    height: 100vh;
+    width: 100%;
+}
